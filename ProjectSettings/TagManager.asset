@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Anchor
   - Magnetic
+  - MagneticPlus
+  - MagneticMinus
+  - goo
+  - goo2
+  - goo3
   layers:
   - Default
   - TransparentFX
@@ -13,8 +18,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Magnetic
-  - 
+  - MagneticPlus
+  - MagneticMinus
   - 
   - 
   - 
